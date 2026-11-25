@@ -1,0 +1,16 @@
+{
+  "name": "Deo Dent - Стоматология в Каспийске",
+  "short_name": "Deo Dent",
+  "description": "Стоматологическая клиника Deo Dent в Каспийске. Лечение зубов без боли.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
